@@ -1,0 +1,6 @@
+cooding of first cel
+https://keras.io/initializers/#he_normal
+
+url of cooding:
+https://machinelearningmastery.com/object-recognition-convolutional-neural-networks-keras-deep-learning-library/
+
